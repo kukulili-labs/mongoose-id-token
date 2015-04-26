@@ -1,0 +1,42 @@
+{
+  "name": "mongoose-id-token",
+  "description": "Creating automaticly an uniq token",
+  "version": "0.0.1",
+  "author": {
+    "name": "Sebastian Müller",
+    "homepage": "http://www.kukulili-labs.com"
+  },
+  "dependencies": {
+    "random-token": "0.0.8"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/kukulili-labs/mongoose-id-token",
+  "keywords": [
+    "mongoose",
+    "auto-increment",
+    "token",
+    "_id",
+    "id"
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kukulili-labs/mongoose-id-token.git"
+  },
+  "main": "lib/mongoose-id-token.js",
+  "readmeFilename": "README.md",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified,you can run 'node examples/example.js'\" && exit 1"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/riyadhalnur/mongoose-softdelete/blob/master/LICENSE"
+    }
+  ]
+}
