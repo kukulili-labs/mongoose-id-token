@@ -3,6 +3,4 @@ services:
   - mongodb
 node_js:
   - 0.10
-before_script:
-  - npm install
 script: npm run test
