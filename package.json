@@ -1,7 +1,7 @@
 {
   "name": "mongoose-id-token",
   "description": "Creating automatically an uniq token field",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {
     "name": "Sebastian Müller",
     "homepage": "http://www.kukulili-labs.com"
